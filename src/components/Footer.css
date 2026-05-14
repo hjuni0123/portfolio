@@ -1,0 +1,28 @@
+.footer {
+  background: #060610;
+  padding: 48px 40px;
+  border-top: 1px solid rgba(255,255,255,0.05);
+}
+.footer__inner {
+  max-width: 1120px; margin: 0 auto;
+  display: flex; flex-direction: column; align-items: center; gap: 8px;
+}
+.footer__logo {
+  font-size: 1.3rem; font-weight: 900;
+  letter-spacing: -0.04em; color: white;
+  display: flex; align-items: center;
+}
+.footer__dot {
+  display: inline-block; width: 7px; height: 7px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #7248F2, #00D4AA);
+  margin-left: 3px; margin-bottom: 8px;
+}
+.footer__tagline { font-size: 13px; color: rgba(255,255,255,0.35); }
+.footer__copy { font-size: 12px; color: rgba(255,255,255,0.2); }
+.footer__insta {
+  color: rgba(255,255,255,0.4);
+  font-weight: 600;
+  transition: color 0.2s;
+}
+.footer__insta:hover { color: rgba(255,255,255,0.7); }
