@@ -1,5 +1,15 @@
 .experience { background: white; }
 
+.exp__group + .exp__group { margin-top: 48px; }
+
+.exp__group-title {
+  font-size: 1rem; font-weight: 800;
+  letter-spacing: -0.02em; color: var(--text);
+  margin-bottom: 20px;
+  padding-left: 14px;
+  border-left: 4px solid var(--primary);
+}
+
 .exp__grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
