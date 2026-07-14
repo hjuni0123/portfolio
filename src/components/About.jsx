@@ -55,8 +55,8 @@ export default function About() {
           >
             <span className="eyebrow">About Me</span>
             <h2 className="h2 about__heading">
-              이론과 실전을 넘나드는<br />
-              <span className="grad">금융 경력자</span>
+              리서치와 정책 현장을 넘나드는<br />
+              <span className="grad">실전형 금융인</span>
             </h2>
           </motion.div>
           <motion.p
@@ -67,10 +67,12 @@ export default function About() {
             transition={{ duration: 0.65, delay: 0.15 }}
           >
             광운대학교에서 경영학과 동북아문화산업학을 복수전공하며,
-            금융·경제 분야를 이론부터 실전까지 탐구하고 있습니다.
-            투자자산운용사·ADsP 자격증 취득, 한국경제인협회 R&D 연구,
-            매경이코노미 서포터즈 활동을 통해 금융 시장의 흐름을
-            직접 체험하고 이를 콘텐츠로 사회와 공유해왔습니다.
+            금융시장을 이론과 현장 양쪽에서 탐구해왔습니다.
+            한국경제인협회·한경협중소기업협력센터에서 스테이블코인 규제와
+            대중소기업 상생협력을 주제로 리서치를 수행했고, 중소벤처기업부
+            청년정책과 인턴으로 정책 실무를 경험했습니다. 투자자산운용사·
+            펀드투자권유대행인·ADsP 자격증을 바탕으로 매경이코노미·키움증권
+            서포터즈 활동을 통해 금융 콘텐츠를 대중과 공유해왔습니다.
           </motion.p>
         </div>
       </div>
