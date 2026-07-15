@@ -7,6 +7,8 @@ const links = [
   { label: '학력', href: '#education' },
   { label: '경험', href: '#experience' },
   { label: '자격증', href: '#certs' },
+  { label: '역량', href: '#skills' },
+  { label: '어학', href: '#languages' },
   { label: 'Contact', href: '#contact' },
 ];
 
