@@ -6,17 +6,17 @@ const skillGroups = [
     category: '데이터 & 오피스',
     icon: '📊',
     skills: [
-      'Excel 피벗테이블·VLOOKUP 활용 데이터 정리 및 분석',
-      'PowerPoint 기반 보고 자료 제작',
-      'Word 활용 정제된 보고서 작성',
+      'Excel — Pivot Table, XLOOKUP(VLOOKUP), SUMIFS, IF 함수 활용 데이터 분석 및 정리',
+      'PowerPoint — 발표자료 기획·제작, 차트·도식 활용 분석 결과 시각화',
+      'Word — 보고서 작성, 표·도형 편집, 스타일 및 목차 활용',
     ],
   },
   {
     category: '생성형 AI 활용',
     icon: '🤖',
     skills: [
-      '생성형 AI 활용 반복업무 자동화 경험',
-      'AI로 웹사이트를 제작·배포해 실제 행사에 활용한 경험',
+      '생성형 AI(ChatGPT·Claude) 활용 반복업무 자동화',
+      'AI 기반 DCF Valuation 웹서비스 개발 및 배포 경험',
       '프롬프트 기반 리서치 및 문서 초안 작성',
     ],
   },
@@ -24,6 +24,7 @@ const skillGroups = [
     category: '금융 리서치',
     icon: '🏦',
     skills: [
+      '정량 지표(ETF 구성종목, 지수 상관계수, MVRV 등) 기반 투자의견 도출',
       '정책·규제 동향 분석 및 시사점 도출',
       '리서치 보고서 작성 및 발표',
       '금융 콘텐츠 기획 (카드뉴스 등)',
