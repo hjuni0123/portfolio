@@ -25,9 +25,14 @@ export default function Contact() {
           </p>
 
           <div className="contact__pills">
-            <a href="mailto:a0038277482@gmail.com" className="contact__pill">
+            <a href="mailto:khjprochazka@gmail.com" className="contact__pill">
               <span>📧</span>
-              <span>a0038277482@gmail.com</span>
+              <span>khjprochazka@gmail.com</span>
+              <span className="contact__pill-arrow">↗</span>
+            </a>
+            <a href="tel:+821059129992" className="contact__pill">
+              <span>📱</span>
+              <span>+82 10-5912-9992</span>
               <span className="contact__pill-arrow">↗</span>
             </a>
             <a

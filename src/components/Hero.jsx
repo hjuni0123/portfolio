@@ -3,13 +3,14 @@ import './Hero.css';
 
 const chips = [
   '금융 분석', '핀테크 리서치', '스테이블코인', '데이터 분석',
-  '콘텐츠 마케팅', '투자자산운용', '자본시장', '예산 관리', 'R&D 리서치',
+  '콘텐츠 마케팅', '투자자산운용', '자본시장', 'PB·IR 리서치', '예산 관리', 'R&D 리서치',
 ];
 
 const profileItems = [
   { icon: '🎓', label: '소속', value: '광운대학교 4학년' },
   { icon: '📚', label: '전공', value: '경영학 · 동북아문화산업학' },
   { icon: '📍', label: '위치', value: '서울특별시' },
+  { icon: '🎖️', label: '병역', value: '군필 (육군 병장 만기전역)' },
   { icon: '📸', label: 'Instagram', value: '@hjeconomy' },
 ];
 
