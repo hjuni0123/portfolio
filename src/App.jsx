@@ -6,6 +6,7 @@ import About from './components/About';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
+import Work from './components/Work';
 import Certifications from './components/Certifications';
 import Languages from './components/Languages';
 import Contact from './components/Contact';
@@ -18,6 +19,7 @@ export default function App() {
       <Hero />
       <About />
       <Experience />
+      <Work />
       <Education />
       <Certifications />
       <Skills />
