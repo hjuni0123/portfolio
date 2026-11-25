@@ -12,21 +12,21 @@ const skillGroups = [
     ],
   },
   {
-    category: '생성형 AI 활용',
+    category: '자동화 · 생성형 AI',
     icon: '🤖',
     skills: [
-      '생성형 AI(ChatGPT·Claude) 활용 반복업무 자동화',
+      'Python · Claude Code · GitHub Actions 활용 업무 자동화',
+      'DART·네이버·토스 API 연동 PB 데일리 브리핑 봇 단독 개발·운영 (PB 7명 사용)',
       'AI 기반 DCF Valuation 웹서비스 개발 및 배포 경험',
-      '프롬프트 기반 리서치 및 문서 초안 작성',
     ],
   },
   {
     category: '금융 리서치',
     icon: '🏦',
     skills: [
-      '정량 지표(ETF 구성종목, 지수 상관계수, MVRV 등) 기반 투자의견 도출',
-      '정책·규제 동향 분석 및 시사점 도출',
-      '리서치 보고서 작성 및 발표',
+      '재무 모델링(Excel) 기반 PER·PBR·PSR·EV/EBITDA 밸류에이션 분석',
+      'MVRV 등 정량 지표 기반 투자의견 도출 및 통계적 검증',
+      '정책·규제 동향 분석 및 리서치 보고서 작성·발표',
       '금융 콘텐츠 기획 (카드뉴스 등)',
     ],
   },

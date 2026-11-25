@@ -3,6 +3,16 @@ import './Certifications.css';
 
 const certs = [
   {
+    icon: '📜',
+    name: '증권투자권유자문인력',
+    issuer: '금융투자협회',
+    date: '2026.10.29',
+    level: 'Professional',
+    levelColor: '#3B82F6',
+    desc: '증권 투자 권유 및 투자자문 업무 수행 공인 자격',
+    accent: '#3B82F6',
+  },
+  {
     icon: '📈',
     name: '투자자산운용사',
     issuer: '한국금융투자협회',
